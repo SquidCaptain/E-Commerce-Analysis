@@ -73,9 +73,3 @@ https://www.kaggle.com/datasets/benroshan/ecommerce-data
 - **Promote Electronics**, with a focus on the Printers sub-category
 - **Optimize Furniture** through margin-focused initiatives (e.g., supplier renegotiation)
 - **Reassess Clothing** pricing, marketing, or product mix due to persistent underperformance
-
----
-
-## Author
-
-**George Yeh**

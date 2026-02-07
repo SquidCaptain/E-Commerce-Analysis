@@ -8,6 +8,11 @@ The analysis uncovers a clear profitability turnaround beginning in October 2018
 
 ---
 
+## Notebook
+[Notebook](https://github.com/SquidCaptain/E-Commerce-Analysis/blob/main/notebooks/visualization.ipynb)
+
+---
+
 ## Tableau Dashboard
 [Dashboard](https://public.tableau.com/app/profile/george.yeh/viz/TableauDashboard_17704359382120/Dashboard1)
 

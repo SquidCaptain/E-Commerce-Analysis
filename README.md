@@ -8,6 +8,11 @@ The analysis uncovers a clear profitability turnaround beginning in October 2018
 
 ---
 
+## Tableau Dashboard
+[Dashboard](https://public.tableau.com/app/profile/george.yeh/viz/TableauDashboard_17704359382120/Dashboard1)
+
+---
+
 ## Dataset
 
 **Source:**  
